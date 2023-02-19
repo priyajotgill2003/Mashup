@@ -20,6 +20,8 @@ A python program that creates mashup of videos of your favourite singer.
 To run from cli, use the following command:
 
 > python 102003293.py [SingerName] [NumberOfVideos] [AudioDuration] [OutputFileName] 
+
+
 Example:
 
 > python 102003293.py Sidhu Moosewala 2 20 sidhu.mp3
